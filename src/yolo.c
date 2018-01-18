@@ -10,16 +10,16 @@
 #endif
 
 /* Change class number here */
-#define CLASSNUM 2
+#define CLASSNUM 1
 
 /* Change class names here */
-char *voc_names[] = {"yieldsign","stopsign"};
+char *voc_names[] = {"frccube"};
 image voc_labels[CLASSNUM];
 
 void train_yolo(char *cfgfile, char *weightfile)
 {
     /* Change training folders here */
-    char *train_images = "scripts/training_list.txt";
+    char *train_images = "scripts/frccube_list.txt";
 
     /* Change output weight folders here */
     char *backup_directory = "model/";
