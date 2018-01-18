@@ -12,7 +12,7 @@ import os
 from os import walk, getcwd
 from PIL import Image
 
-classes = ["stopsign"]
+classes = ["frccube"]
 
 def convert(size, box):
     dw = 1./size[0]
@@ -31,10 +31,10 @@ def convert(size, box):
 """-------------------------------------------------------------------""" 
 
 """ Configure Paths"""   
-mypath = "labels/stopsign_original/"
-outpath = "labels/stopsign/"
+mypath = "labels/frccube_original/"
+outpath = "labels/frccube/"
 
-cls = "stopsign"
+cls = "frccube"
 if cls not in classes:
     exit(0)
 cls_id = classes.index(cls)
