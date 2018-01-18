@@ -51,7 +51,6 @@
 /home/ethan/vision/might-work/scripts/images/frccube/jpeg$-101.JPEG
 /home/ethan/vision/might-work/scripts/images/frccube/jpeg$-461.JPEG
 /home/ethan/vision/might-work/scripts/images/frccube/jpeg$-125.JPEG
-/home/ethan/vision/might-work/scripts/images/frccube/jpeg$-98.JPEG
 /home/ethan/vision/might-work/scripts/images/frccube/jpeg$-189.JPEG
 /home/ethan/vision/might-work/scripts/images/frccube/jpeg$-200.JPEG
 /home/ethan/vision/might-work/scripts/images/frccube/jpeg$-330.JPEG
